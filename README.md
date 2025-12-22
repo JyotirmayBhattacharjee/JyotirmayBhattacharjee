@@ -16,6 +16,24 @@
 [![Live Website](https://img.shields.io/badge/🚀%20Live%20Website-Visit%20Now-blue?style=for-the-badge)](https://sparkly-alfajores-ce4129.netlify.app/)
 
 
+<p align="center">
+
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-50%2B%20Days%20Badge%202025-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://www.cloudskillsboost.google/public_profiles/e9d1ceb7-dd8d-4731-a4f9-e5432db43569">
+  <img src="https://img.shields.io/badge/Google%20Cloud-Silver%20League%20(8230%20Points)-blue?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</a>
+
+<a href="https://www.cloudskillsboost.google/">
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Arcade-Trivia%20Winner%20June%202024-green?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</a>
+
+</p>
+
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
