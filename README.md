@@ -26,8 +26,8 @@
   <img src="https://img.shields.io/badge/Google%20Cloud-Silver%20League%20(8230%20Points)-blue?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </a>
 
-<a href="https://www.cloudskillsboost.google/">
-    <img src="assets/Screenshot%202025-12-22%20111252.png" alt="Google Cloud Swags" width="320"/>
+<a href="Screenshot 2025-12-22 111252.png">
+  <img src="https://img.shields.io/badge/Google%20Cloud-Swags%20Winner-blueviolet?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </a>
 
 
