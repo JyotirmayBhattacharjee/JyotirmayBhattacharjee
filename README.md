@@ -15,10 +15,10 @@
 
 [![Live Website](https://img.shields.io/badge/🚀%20Live%20Website-Visit%20Now-blue?style=for-the-badge)](https://sparkly-alfajores-ce4129.netlify.app/)
 
+# 🏆 Achievements
+<!-- <p align="center"> -->
 
-<p align="center">
-
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/medal/?showImg=0&id=7906000&isLevel=false">
   <img src="https://img.shields.io/badge/LeetCode-50%2B%20Days%20Badge%202025-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
@@ -27,10 +27,8 @@
 </a>
 
 <a href="https://www.cloudskillsboost.google/">
-  <img src="https://img.shields.io/badge/Google%20Cloud%20Arcade-Trivia%20Winner%20June%202024-green?style=for-the-badge&logo=googlecloud&logoColor=white" />
+    <img src="assets/Screenshot%202025-12-22%20111252.png" alt="Google Cloud Swags" width="320"/>
 </a>
-
-</p>
 
 
 
