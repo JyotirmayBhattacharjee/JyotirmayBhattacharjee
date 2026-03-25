@@ -13,7 +13,7 @@
 
 # 🌐 Personal Portfolio Website
 
-[![Live Website](https://img.shields.io/badge/🚀%20Live%20Website-Visit%20Now-blue?style=for-the-badge)](https://sparkly-alfajores-ce4129.netlify.app/)
+[![Live Website](https://tubular-baklava-c79191.netlify.app/)
 
 # 🏆 Achievements
 <!-- <p align="center"> -->
